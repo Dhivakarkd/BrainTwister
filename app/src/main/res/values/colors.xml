@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FFC107</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="Livid">#6699CC</color>
+    <color name="sunny">#FFF275</color>
+    <color name="tigers_eye">#E8803C</color>
+    <color name="danger_red">#FF3C38</color>
+    <color name="Rose_gold">#BB7279</color>
+    <color name="imperal">#693668</color>
+    <color name="gamestart_primary">#00A8E8</color>
+    <color name="gra_start">#2193B0</color>
+    <color name="gra_end">#6DD5Ed</color>
+    <color name="parapink">#E63462</color>
+    <color name="deep">#273469</color>
+    <color name="light">#E2AFDE</color>
+    <color name="blue">#C5F4E0</color>
+    <color name="true_green">#7CFC00</color>
+    <color name="false_red">#FF4500</color>
+
+</resources>
